@@ -54,8 +54,7 @@ contact@mashu.lol
 A simple React mock UI is available under `web/` to visualize the main menu flow.
 
 ```bash
-cd web
 python -m http.server 5173
 ```
 
-Open <http://localhost:5173> to view the demo.
+Open <http://localhost:5173> and it will redirect to the demo. You can also open <http://localhost:5173/web/> directly.
