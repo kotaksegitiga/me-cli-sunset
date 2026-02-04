@@ -48,3 +48,14 @@ By using this tool, the user agrees to comply with all applicable laws and regul
 ## Contact
 
 contact@mashu.lol
+
+# React Demo (UI Mock)
+
+A simple React mock UI is available under `web/` to visualize the main menu flow.
+
+```bash
+cd web
+python -m http.server 5173
+```
+
+Open <http://localhost:5173> to view the demo.
